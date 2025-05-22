@@ -21,3 +21,5 @@ This repository contains the source code for an E-commerce website built using m
 
 https://github.com/user-attachments/assets/48f71581-e18e-4226-a164-6c3fdb4d6b96
 
+This above video describes my whole frontend website.
+
